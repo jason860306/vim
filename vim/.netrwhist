@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/szj0306/Documents/multimedia/openmax/gst-omx-wiki/libva/build'
+let g:netrw_dirhist_2='/home/szj0306/Documents/multimedia/openmax/gst-omx-wiki/libva'
+let g:netrw_dirhist_3='/home/szj0306/Documents/mycodes/posix/thread'
+let g:netrw_dirhist_4='/home/szj0306/Documents/mycodes/posix'
+let g:netrw_dirhist_5='/home/szj0306/Documents/mycodes'
+let g:netrw_dirhist_6='/home/szj0306/Documents/mycodes/posix'
+let g:netrw_dirhist_7='/home/szj0306/Documents/mycodes/posix/thread'
